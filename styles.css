@@ -1,0 +1,107 @@
+* {
+  font-family: "Ancizar Serif", serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #8A51FC;
+}
+
+.logo-convert {
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin: 20px auto;
+}
+
+main {
+  border-radius: 20px;
+  background-color: #F4F4F4;
+  width: 375px;
+  display: block;
+  margin: 0 auto;
+  padding: 44px 24px 23px;
+}
+
+label {
+  font-size: 16px;
+  color: #777777;
+  border: 1px;
+  border-color: #BBBBBB;
+}
+
+select {
+  width: 327px;
+  height: 48px;
+  border-radius: 4px;
+  border-width: 1px;
+  margin-bottom: 24px;
+  appearance: none;
+  padding-left: 15px;
+  font-weight: 700;
+  font-size: 18px;
+  cursor: pointer;
+  background-color: #ffffff;
+}
+
+input {
+  width: 100%;
+  height: 48px;
+  border-radius: 4px;
+  border-width: 1px;
+  padding-left: 15px;
+  font-weight: 700;
+  margin-bottom: 23px;
+}
+
+button {
+  width: 327px;
+  height: 48px;
+  border-radius: 5px;
+  background-color: #772FD3;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 36px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+button:active {
+  opacity: 0.7;
+}
+
+section {
+  border: 1px solid;
+  border-color: #772FD3;
+  border-radius: 20px;
+  padding: 12px 100px;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+.origin, .final {
+  font-size: 14px;
+  color: #555555;
+  text-align: center;
+}
+
+.converted, .to-convert {
+  text-align: center;
+  color: #777777;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.seta {
+  margin: 15px auto;
+}
