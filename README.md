@@ -52,8 +52,8 @@ Users can convert values between the following currencies:
 ## 📷 Preview do projeto / Project Preview
 
 <p aling="center">
-  <img src="img/desktop.png" alt="Versão desktop" width="45%"/>
-  <img src="img/mobile.png" alt="Versão mobile" width="45%"/>
+  <img src="assets/desktop.png" alt="Versão desktop" width="45%"/>
+  <img src="assets/mobile.png" alt="Versão mobile" width="45%"/>
 </p>
 
 ---
