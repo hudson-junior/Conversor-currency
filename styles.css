@@ -124,12 +124,13 @@ section {
     display: block;
     margin: 0 auto 25px;
   }
-  
-  section{
-    padding: 12px 50px;
+
+  section {
+    padding: 12px 25px;
   }
 
   .logo-convert {
-    max-width: 60%;
+    max-width: 40%;
+    height: auto;
   }
 }
