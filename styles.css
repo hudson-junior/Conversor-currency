@@ -21,7 +21,7 @@ main {
   background-color: #F4F4F4;
   width: 375px;
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 40px;
   padding: 44px 24px 23px;
 }
 
@@ -67,6 +67,7 @@ button {
   margin-bottom: 36px;
   border: none;
   cursor: pointer;
+  box-shadow: 0px 4px 4px 0px #00000040;
 }
 
 button:hover {
@@ -84,9 +85,14 @@ section {
   padding: 12px 100px;
 }
 
-.center {
+.origin-img, .final-img {
   display: block;
   margin: 0 auto;
+  width: 44px;
+  height: 44px;
+  border: 1px solid #000000;
+  border-radius: 50%;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.7);
 }
 
 .origin, .final {
@@ -103,5 +109,6 @@ section {
 }
 
 .seta {
+  display: block;
   margin: 15px auto;
 }
