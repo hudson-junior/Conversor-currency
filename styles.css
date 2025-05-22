@@ -124,6 +124,10 @@ section {
     display: block;
     margin: 0 auto 25px;
   }
+  
+  section{
+    padding: 12px 50px;
+  }
 
   .logo-convert {
     max-width: 60%;
