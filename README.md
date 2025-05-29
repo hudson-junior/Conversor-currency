@@ -53,7 +53,7 @@ Users can convert values between the following currencies:
 
 <p aling="center">
   <img src="assets/desktop.png" alt="Versão desktop" width="50%"/>
-  <img src="assets/mobile.png" alt="Versão mobile" height="30%"/>
+  <img src="assets/mobile.png" alt="Versão mobile" height="200px"/>
 </p>
 
 ---
